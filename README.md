@@ -1,4 +1,4 @@
-# YoutubeMedia
+# youtube-media
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -10,7 +10,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/ruslansco/YoutubeMedia">
+  <a href="https://github.com/ruslansco/youtube-media">
     <img src="icons/p0.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,11 +20,11 @@
     A lightweight GUI Python App for downloading YouTube Videos.
     <br />
     <br />
-    <a href="https://github.com/ruslansco/YoutubeMedia">View Demo</a>
+    <a href="https://github.com/ruslansco/youtube-media">View Demo</a>
     ·
-    <a href="https://github.com/ruslansco/YoutubeMedia/issues">Report Bug</a>
+    <a href="https://github.com/ruslansco/youtube-media/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ruslansco/YoutubeMedia/issues">Request Feature</a>
+    <a href="https://github.com/ruslansco/youtube-media/issues">Request Feature</a>
    
   </p>
  
@@ -74,7 +74,7 @@ In order to use the program you must run main.py.
    $ python main.py
    ```
 
-See the [open issues](https://github.com/ruslansco/YoutubeMedia/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ruslansco/youtube-media/issues) for a full list of proposed features (and known issues).
 
 <!-- LICENSE -->
 ## License
@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ruslan Shakirov - [@twitter_handle](https://twitter.com/ruslansco) - rshak001@plattsburgh.edu
 
-Project Link: [https://github.com/ruslansco/YotubeMedia](https://github.com/ruslansco/YoutubeMedia)
+Project Link: [https://github.com/ruslansco/YotubeMedia](https://github.com/ruslansco/youtube-media)
 
 
 
